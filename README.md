@@ -1,6 +1,7 @@
 # Node.js Link Shortener
 A simple, easy-to-set-up link shortener with Node.js.
-Replit fork link: 
+
+[Replit Link](https://replit.com/@tallphin/ShortLink)
 
 ## Getting Started
  1. Create a new node.js project with all the files in this repository.
