@@ -17,6 +17,6 @@ A simple, easy-to-set-up link shortener with Node.js.
  ```"url": "www.some.url"``` ✅
  
  3. Run ```npm i``` to install all dependencies
- 4. Run ``node index.js``` to start the project.
+ 4. Run ```node index.js``` to start the project.
  
 ## That's it!
